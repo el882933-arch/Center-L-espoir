@@ -5,7 +5,6 @@
 [![Made with React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
-[![License](https://img.shields.io/badge/License-MIT-lightgrey)](./LICENSE)
 
 <em>"A project developed by the BitBrief team, as a token of appreciation and gratitude to a teacher who had a significant impact on our educational journey — believing that the best way to express thanks is through work that serves an educational institution and strengthens its digital presence."</em>
 
