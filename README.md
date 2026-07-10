@@ -32,7 +32,6 @@ This project was developed by **BitBrief** as a token of appreciation for a teac
 - [Building for Production](#️-building-for-production)
 - [Common Issues](#️-common-issues)
 - [Contributing](#-contributing)
-- [License](#-license)
 
 ---
 
@@ -135,12 +134,6 @@ npm install
 ## 🤝 Contributing
 
 Contributions that help improve and develop the project are welcome, provided they adhere to code quality standards and preserve the website's identity.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
